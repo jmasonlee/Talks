@@ -6,13 +6,11 @@
 1. Move asserts up and delete everything that's not needed from the bottom.
 1.
 
-## Llewellyn's <!-- include: jacqueline.md -->
+## Jacqueline's <!-- include: jacqueline.md -->
 
-* [Blog](http://llewellynfalco.blogspot.com/)
-* [ApprovalTests](https://github.com/approvals/)
-* [YouTube](https://www.youtube.com/user/isidoreus/videos)
-* [Twitch](https://www.twitch.tv/llewellynfalco)
-* [Learn With Llew](https://github.com/LearnWithLlew)
+* [Blog](http://jmasonlee.github.io/)
+* [Calgary Software Crafters](https://www.meetup.com/Calgary-Software-Crafters/)
+* [Twitter](https://twitter.com/jmasonlee)
 
-I'm a Technical Agile Coach. You can [hire me](http://llewellynfalco.blogspot.com/p/hire-me.html)
+
  <!-- endInclude -->
