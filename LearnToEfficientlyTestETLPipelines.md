@@ -27,3 +27,10 @@ After Jay and I had our conversation, J.B. Rainsberger wrote a really good blog 
 
 
  <!-- endInclude -->
+
+## Given At
+* Upcoming:
+  * 2022-06-28 [Databricks Data & AI Summit 2022](https://databricks.com/dataaisummit/session/learn-efficiently-test-etl-pipelines)
+  * 2022-06-21 [Calgary Software Crafters](https://www.meetup.com/calgary-software-crafters/events/286497968/)
+* Past:
+  * 2022-05-28 [Software Developers of Calgary](https://www.meetup.com/software-developers-of-calgary/)  
