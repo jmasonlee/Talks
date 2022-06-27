@@ -21,12 +21,14 @@ After Jay and I had our conversation, J.B. Rainsberger wrote a really good blog 
 * [Twitter](https://twitter.com/jaybazuzi)
 * [Regular Meetups with the Seattle Software crafters](https://www.meetup.com/seattle-software-craftsmanship/)
 * [Mobbing pattern language](https://jay.bazuzi.com/Mobbing-Pattern-Language/)
+* [LinkedIn](https://www.linkedin.com/in/jay-bazuzi-07936414/)
 
 ## Jacqueline's <!-- include: jacqueline.md -->
 
 * [Blog](http://jmasonlee.github.io/)
 * [Calgary Software Crafters](https://www.meetup.com/Calgary-Software-Crafters/)
 * [Twitter](https://twitter.com/jmasonlee)
+* [LinkedIn](https://www.linkedin.com/in/jacqueline-bilston-bb09b1122/)
 
 
  <!-- endInclude -->
@@ -34,6 +36,7 @@ After Jay and I had our conversation, J.B. Rainsberger wrote a really good blog 
 ## Given At
 * Upcoming:
   * 2022-06-28 [Databricks Data & AI Summit 2022](https://databricks.com/dataaisummit/session/learn-efficiently-test-etl-pipelines)
-  * 2022-06-21 [Calgary Software Crafters](https://www.meetup.com/calgary-software-crafters/events/286497968/)
 * Past:
+  * 2022-06-21 [Calgary Software Crafters](https://www.meetup.com/calgary-software-crafters/events/286497968/)
   * 2022-05-28 [Software Developers of Calgary](https://www.meetup.com/software-developers-of-calgary/)  
+  * 2022-04-21 [Women in Data Calgary](https://www.meetup.com/women-in-data-calgary/events/285039460/)
