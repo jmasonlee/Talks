@@ -16,6 +16,8 @@
 
 After Jay and I had our conversation, J.B. Rainsberger wrote a really good blog describing this technique in detail. [Check it out here!](https://blog.thecodewhisperer.com/permalink/the-saff-squeeze)
 
+[Kent Beck's original blog post on the wayback machine](https://web.archive.org/web/20090301204625/http://www.threeriversinstitute.org/HitEmHighHitEmLow.html)
+
 ## Jay Bazuzi shares bits of wisdom on his... ##
 * [Blog](https://jay.bazuzi.com/)
 * [Twitter](https://twitter.com/jaybazuzi)
