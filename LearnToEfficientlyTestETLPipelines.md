@@ -18,7 +18,6 @@ After Jay and I had our conversation, J.B. Rainsberger wrote a really good blog 
 
 [Kent Beck's original blog post on the wayback machine](https://web.archive.org/web/20090301204625/http://www.threeriversinstitute.org/HitEmHighHitEmLow.html)
 
-[Ask Jay about the Saff Squeeze (or other things) July 13!](https://www.meetup.com/seattle-software-craftsmanship/events/286844095/)
 
 ## Jay Bazuzi shares bits of wisdom on his... ##
 * [Blog](https://jay.bazuzi.com/)
@@ -26,6 +25,8 @@ After Jay and I had our conversation, J.B. Rainsberger wrote a really good blog 
 * [Regular Meetups with the Seattle Software crafters](https://www.meetup.com/seattle-software-craftsmanship/)
 * [Mobbing pattern language](https://jay.bazuzi.com/Mobbing-Pattern-Language/)
 * [LinkedIn](https://www.linkedin.com/in/jay-bazuzi-07936414/)
+
+[Ask Jay about the Saff Squeeze (or other things) July 13!](https://www.meetup.com/seattle-software-craftsmanship/events/286844095/)
 
 ## Jacqueline's <!-- include: jacqueline.md -->
 
