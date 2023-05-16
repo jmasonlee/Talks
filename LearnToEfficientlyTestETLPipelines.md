@@ -26,7 +26,7 @@ After Jay and I had our conversation, J.B. Rainsberger wrote a really good blog 
 * [Mobbing pattern language](https://jay.bazuzi.com/Mobbing-Pattern-Language/)
 * [LinkedIn](https://www.linkedin.com/in/jay-bazuzi-07936414/)
 
-[Ask Jay about the Saff Squeeze (or other things) July 13!](https://www.meetup.com/seattle-software-craftsmanship/events/286844095/)
+[Ask Jay about the Saff Squeeze (or other things) June 7!](https://www.meetup.com/seattle-software-craftsmanship/events/286844095/)
 
 ## Jacqueline's <!-- include: jacqueline.md -->
 
