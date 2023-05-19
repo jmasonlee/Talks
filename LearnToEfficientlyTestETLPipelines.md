@@ -18,6 +18,8 @@ After Jay and I had our conversation, J.B. Rainsberger wrote a really good blog 
 
 [Kent Beck's original blog post on the wayback machine](https://web.archive.org/web/20090301204625/http://www.threeriversinstitute.org/HitEmHighHitEmLow.html)
 
+[Jacqueline's Oreilly course on data pipeline testing](https://learning.oreilly.com/live-events/efficiently-testing-etl-pipelines/0636920091008/0636920091007/)
+
 
 ## Jay Bazuzi shares bits of wisdom on his... ##
 * [Blog](https://jay.bazuzi.com/)
@@ -39,8 +41,10 @@ After Jay and I had our conversation, J.B. Rainsberger wrote a really good blog 
 
 ## Given At
 * Upcoming:
-  * 2022-06-28 [Databricks Data & AI Summit 2022](https://databricks.com/dataaisummit/session/learn-efficiently-test-etl-pipelines)
+  * 2023-05-19 [Craft 2023](https://craft-conf.com/2023/talk/breaking-down-large-tests-with-a-saff-squeeze)
 * Past:
+  * 2023-03-18 [YYC DataCon](https://yycdatacon.yycdata.ca/speakers/jacqueline-bilston/)
+  * 2022-06-28 [Databricks Data & AI Summit 2022](https://databricks.com/dataaisummit/session/learn-efficiently-test-etl-pipelines)
   * 2022-06-21 [Calgary Software Crafters](https://www.meetup.com/calgary-software-crafters/events/286497968/)
   * 2022-05-28 [Software Developers of Calgary](https://www.meetup.com/software-developers-of-calgary/)  
   * 2022-04-21 [Women in Data Calgary](https://www.meetup.com/women-in-data-calgary/events/285039460/)
