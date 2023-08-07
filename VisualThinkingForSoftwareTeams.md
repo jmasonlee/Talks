@@ -1,3 +1,4 @@
+(Slides)[https://github.com/jmasonlee/Talks/tree/master/Slides]
 - Upside Down brilliance: https://l-atent.be/wp-content/uploads/2020/12/Upside-Down-Brilliance-A4-pdf.pdf
 
 - You are not a visual learner: https://www.youtube.com/watch?v=rhgwIhB58PA
