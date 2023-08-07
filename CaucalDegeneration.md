@@ -5,11 +5,11 @@
 ## Talk given:
 * 2023-01-12 : Presented for an internal learning hour at a private company
 
-## Jacqueline's <!-- include: jacqueline.md -->
+## Jacqueline's<!-- include: jacqueline.md -->
 
 * [Blog](http://jmasonlee.github.io/)
 * [Calgary Software Crafters](https://www.meetup.com/Calgary-Software-Crafters/)
 * [Twitter](https://twitter.com/jmasonlee)
 
 
- <!-- endInclude -->
+<!-- endInclude -->
