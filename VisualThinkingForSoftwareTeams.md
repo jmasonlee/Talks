@@ -3,6 +3,11 @@
 * [Slides](https://github.com/jmasonlee/Talks/tree/master/Slides)
 * Common Issues encountered by people thinking visual-spatially on software teams:
 
+<!-- include: jacqueline.md -->
+<!-- endInclude -->
+
+## Given At
+
 ## Primary References:
 - Visual Thinking by Temple Grandin: https://www.penguinrandomhouse.com/books/673207/visual-thinking-by-temple-grandin/
 - Upside Down brilliance: https://l-atent.be/wp-content/uploads/2020/12/Upside-Down-Brilliance-A4-pdf.pdf
