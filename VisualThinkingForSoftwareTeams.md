@@ -3,7 +3,13 @@
 * [Slides](https://github.com/jmasonlee/Talks/tree/master/Slides)
 * Common Issues encountered by people thinking visual-spatially on software teams:
 
-<!-- include: jacqueline.md -->
+## Jacqueline's<!-- include: jacqueline.md -->
+
+* [Blog](http://jmasonlee.github.io/)
+* [Calgary Software Crafters](https://www.meetup.com/Calgary-Software-Crafters/)
+* [Twitter](https://twitter.com/jmasonlee)
+
+
 <!-- endInclude -->
 
 ## Given At
