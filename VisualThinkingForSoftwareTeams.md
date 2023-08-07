@@ -1,7 +1,7 @@
 # Visual Thinking For software teams
 
-[Slides](https://github.com/jmasonlee/Talks/tree/master/Slides)
-Common Issues encountered by people thinking visual-spatially on software teams:
+* [Slides](https://github.com/jmasonlee/Talks/tree/master/Slides)
+* Common Issues encountered by people thinking visual-spatially on software teams:
 
 ## Primary References:
 - Visual Thinking by Temple Grandin: https://www.penguinrandomhouse.com/books/673207/visual-thinking-by-temple-grandin/
