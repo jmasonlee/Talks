@@ -13,6 +13,8 @@
 <!-- endInclude -->
 
 ## Given At
+### Upcoming
+2023-08-07 [Tech Excellence Meetup](https://www.meetup.com/techexcellence/events/294944742/)
 
 ## Primary References:
 - Visual Thinking by Temple Grandin: https://www.penguinrandomhouse.com/books/673207/visual-thinking-by-temple-grandin/
