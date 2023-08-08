@@ -1,7 +1,7 @@
 # Visual Thinking For software teams
 
 * [Slides](https://github.com/jmasonlee/Talks/tree/master/Slides)
-* Common Issues encountered by people thinking visual-spatially on software teams:
+* [Common Issues encountered by people thinking visually on software teams](https://github.com/jmasonlee/Talks/blob/master/Notes/recommendations_for_visual_thinking.md)
 
 ## Jacqueline's<!-- include: jacqueline.md -->
 
