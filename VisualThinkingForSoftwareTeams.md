@@ -12,6 +12,13 @@
 
 <!-- endInclude -->
 
+## Real People in the Talk
+
+* [Diana Sherwood](https://www.linkedin.com/in/dianasherwood5000/)
+* [Julie Gunawan](https://www.linkedin.com/in/julie-gunawan/)
+* [Susan Fung](https://www.linkedin.com/in/susan-fung/)
+* [Keegan Parker](https://www.linkedin.com/in/keeganparker/)
+
 ## Given At
 ### Upcoming
 2023-08-07 [Tech Excellence Meetup](https://www.meetup.com/techexcellence/events/294944742/)
