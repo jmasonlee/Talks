@@ -9,12 +9,6 @@
 * [Calgary Software Crafters](https://www.meetup.com/Calgary-Software-Crafters/)
 * [Twitter](https://twitter.com/jmasonlee)
 
-## Real People in the Talk
-
-* [Diana Sherwood](https://www.linkedin.com/in/dianasherwood5000/)
-* [Julie Gunawan](https://www.linkedin.com/in/julie-gunawan/)
-* [Susan Fung](https://www.linkedin.com/in/susan-fung/)
-* [Keegan Parker](https://www.linkedin.com/in/keeganparker/)
 
 <!-- endInclude -->
 
