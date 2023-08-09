@@ -3,26 +3,6 @@
 * [Slides](https://github.com/jmasonlee/Talks/tree/master/Slides)
 * [Common Issues encountered by people thinking visually on software teams](https://github.com/jmasonlee/Talks/blob/master/Notes/recommendations_for_visual_thinking.md)
 
-## Jacqueline's<!-- include: jacqueline.md -->
-
-* [Blog](http://jmasonlee.github.io/)
-* [Calgary Software Crafters](https://www.meetup.com/Calgary-Software-Crafters/)
-* [Twitter](https://twitter.com/jmasonlee)
-
-
-<!-- endInclude -->
-
-## Real People in the Talk
-
-* [Diana Sherwood](https://www.linkedin.com/in/dianasherwood5000/)
-* [Julie Gunawan](https://www.linkedin.com/in/julie-gunawan/)
-* [Susan Fung](https://www.linkedin.com/in/susan-fung/)
-* [Keegan Parker](https://www.linkedin.com/in/keeganparker/)
-
-## Given At
-### Upcoming
-2023-08-07 [Tech Excellence Meetup](https://www.meetup.com/techexcellence/events/294944742/)
-
 ## Primary References:
 - [Visual Thinking by Temple Grandin](https://www.penguinrandomhouse.com/books/673207/visual-thinking-by-temple-grandin/)
 - [Upside Down brilliance](https://l-atent.be/wp-content/uploads/2020/12/Upside-Down-Brilliance-A4-pdf.pdf)
@@ -47,3 +27,23 @@ https://docplayer.net/21441570-Classroom-identification-of-visual-spatial-learne
 
 ## Einstein on Visual Thinking
 - [Einstein on Visual Thinking](https://www.visualscribing.com/blog/2019-11-11-einstein-on-visual-thinking)
+
+## Real People in the Talk
+
+* [Diana Sherwood](https://www.linkedin.com/in/dianasherwood5000/)
+* [Julie Gunawan](https://www.linkedin.com/in/julie-gunawan/)
+* [Susan Fung](https://www.linkedin.com/in/susan-fung/)
+* [Keegan Parker](https://www.linkedin.com/in/keeganparker/)
+
+## Jacqueline's<!-- include: jacqueline.md -->
+
+* [Blog](http://jmasonlee.github.io/)
+* [Calgary Software Crafters](https://www.meetup.com/Calgary-Software-Crafters/)
+* [Twitter](https://twitter.com/jmasonlee)
+
+
+<!-- endInclude -->
+
+## Given At
+### Upcoming
+2023-08-07 [Tech Excellence Meetup](https://www.meetup.com/techexcellence/events/294944742/)
