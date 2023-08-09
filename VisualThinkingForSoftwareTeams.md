@@ -20,6 +20,8 @@
 - [Context dependent thinking styles](https://www.sciencedirect.com/science/article/abs/pii/S1053811917302379)
 
 ### The Visual-Spatial Identifier description
+The ["Are you a Visual Thinker" survey](https://forms.gle/pR2WpuGARt2icz447) I used.
+
 The version of the Visual Saptial identifier I used was in Temple Grandin's book on Visual Thinking. She cites:  
 Silverman, L.K. _Upside-Down Brilliance: The Visual-Spatial Learner._ Denver: Deleon, 2002.  
 I can't find a reference to that online, but this article is written by a collaborator and gives a decent summary with a [slightly different version of the questionnaire](
