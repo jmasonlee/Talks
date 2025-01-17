@@ -7,3 +7,6 @@
 
 * [Blog](http://jmasonlee.github.io/)
 * [Calgary Software Crafters](https://www.meetup.com/Calgary-Software-Crafters/)
+
+## Given At
+  * 2025-01-17 [Calgary Software Crafters/Tech Connect Alberta](https://www.meetup.com/calgary-software-crafters/events/305468464/)
