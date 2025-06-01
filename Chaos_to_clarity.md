@@ -1,7 +1,7 @@
 # From Chaos to Clarity
 
 ## Talk Resources
-* [Slides](https://github.com/jmasonlee/Talks/blob/master/Slides/Chaos_to_clarity%20%5BAutosaved%5D.pptx.bak.pptx)
+* [Slides](https://github.com/jmasonlee/Talks/blob/master/Slides/Chaos_to_clarity.pptx)
 * [Sample splunk dashboard with graph showing number of queries by a user each query date in splunk](https://github.com/jmasonlee/Talks/blob/master/Notes/Chaos_to_Clarity/splunk_dashboard.md)
 
 ## Jacqueline's
