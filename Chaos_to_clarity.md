@@ -9,7 +9,6 @@
 * [This is why my observability tool needs to be configurable](https://www.honeycomb.io/blog/dashboards-or-launchpads)
 ### Observability in Data Engineering
 * [What is Data Observability](https://www.montecarlodata.com/blog-what-is-data-observability/)
-* [What is Data Observability? A comprehensive guide](https://www.decube.io/post/data-observability-concept)
 ### Observabiilty in Application Engineering
 * [What is Observability?](https://www.youtube.com/watch?v=mjO0n1EeMiI)
 * [Event Analytics in Application Engineering](https://mixpanel.com/blog/event-analytics/)
