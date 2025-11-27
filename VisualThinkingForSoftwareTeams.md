@@ -34,10 +34,9 @@ https://docplayer.net/21441570-Classroom-identification-of-visual-spatial-learne
 * [Keegan Parker](https://www.linkedin.com/in/keeganparker/)
 
 ## Jacqueline's<!-- include: jacqueline.md -->
-
+* [LinkedIn](https://www.linkedin.com/in/jacqueline-bilston-bb09b1122)
 * [Blog](http://jmasonlee.github.io/)
 * [Calgary Software Crafters](https://www.meetup.com/Calgary-Software-Crafters/)
-* [Twitter](https://twitter.com/jmasonlee)
 
 
 <!-- endInclude -->

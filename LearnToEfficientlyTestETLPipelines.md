@@ -31,10 +31,9 @@ After Jay and I had our conversation, J.B. Rainsberger wrote a really good blog 
 [Ask Jay about the Saff Squeeze (or other things) June 7!](https://www.meetup.com/seattle-software-craftsmanship/events/286844095/)
 
 ## Jacqueline's<!-- include: jacqueline.md -->
-
+* [LinkedIn](https://www.linkedin.com/in/jacqueline-bilston-bb09b1122)
 * [Blog](http://jmasonlee.github.io/)
 * [Calgary Software Crafters](https://www.meetup.com/Calgary-Software-Crafters/)
-* [Twitter](https://twitter.com/jmasonlee)
 
 
 <!-- endInclude -->
