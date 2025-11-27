@@ -29,6 +29,9 @@ While the talk is based on my personal experiences, these resources helped me be
  - [Platform Engineering: It's About Culture, not Tools (Bryan Ross)](https://about.gitlab.com/the-source/platform/platform-engineering-its-about-culture-not-tools/)
  - [My Model of Lived Culture (I wrote this one!)](https://jmasonlee.github.io/culture/engineering/leadership/2025/11/11/model_for_lived_culture.html)
 
+## Jacqueline's
+<!-- include: jacqueline.md -->
+<!-- endInclude -->
 
 ## Given At
 ### Upcoming:
