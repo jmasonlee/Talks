@@ -30,7 +30,12 @@ While the talk is based on my personal experiences, these resources helped me be
  - [My Model of Lived Culture (I wrote this one!)](https://jmasonlee.github.io/culture/engineering/leadership/2025/11/11/model_for_lived_culture.html)
 
 ## Jacqueline's
-<!-- include: jacqueline.md -->
+## Jacqueline's<!-- include: jacqueline.md -->
+* [LinkedIn](https://www.linkedin.com/in/jacqueline-bilston-bb09b1122)
+* [Blog](http://jmasonlee.github.io/)
+* [Calgary Software Crafters](https://www.meetup.com/Calgary-Software-Crafters/)
+
+
 <!-- endInclude -->
 
 ## Given At
