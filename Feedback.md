@@ -26,6 +26,10 @@
 | **A Reconsideration of Cognitive Load Theory** | Wolfgang Schnotz & Christian Kürschner (2007)<br>*Educational Psychology Review*, 19(4), 469–508. | Re-evaluates the interplay between intrinsic, extraneous, and germane cognitive load, examining how working memory demands interact with learner expertise and task complexity. | [Publisher](https://link.springer.com/article/10.1007/s10648-007-9053-4) |
 | **Recognition for Positive Behavior as a Critical Youth Development Construct: Conceptual Bases and Implications on Youth Service Development** | Ben M. F. Law, Andrew M. H. Siu, & Daniel T. L. Shek (2012)<br>*The Scientific World Journal*, 2012, Article 809578. | Analyzes how recognizing positive behavior, through operant conditioning, observational learning, self-determination, and humanistic perspectives, fosters motivation and prosocial development in youth. | [Open access PDF (Kentucky repository)](https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1028&context=pediatrics_facpub) · [Brunel repository](https://bura.brunel.ac.uk/handle/2438/23834) |
 
+## Jacqueline's
+* [LinkedIn](https://www.linkedin.com/in/jacqueline-bilston-bb09b1122)
+* [Blog](http://jmasonlee.github.io/)
+* [Calgary Software Crafters](https://www.meetup.com/Calgary-Software-Crafters/)
 
 ## Given At
 2026-10-20 Seattle Software Crafters
